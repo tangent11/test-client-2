@@ -12,3 +12,5 @@ Release Check complete
 bug of func1 fixed
 
 Terminal Change
+
+This is from tangent0's fork.
